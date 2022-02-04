@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+p,h1,h2{
+    color: rgb(2, 0, 0);
+}
+#login_div{
+    margin: 300px;
+}
